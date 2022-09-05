@@ -19,10 +19,9 @@ h2 {
 }
 
 // Center the hero image on the homepage
-div.centered {
+div#centered {
   display: block;
-  width: 100%;
-  align: center;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
