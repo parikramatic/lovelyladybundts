@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Hide the header
+div#header {
+  display: none !important;
+}
+
+// Hide the credits, github link etc.
+span.credits {
+  display: none !important;
+}
+
+// Make the header text color brighter
+h2 {
+  color: #ffcc00;
+}
