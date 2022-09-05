@@ -1,2 +1,0 @@
-# lovelyladybundts
-LLB homepage
