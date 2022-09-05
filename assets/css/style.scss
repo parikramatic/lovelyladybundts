@@ -17,3 +17,10 @@ span.credits {
 h2 {
   color: #ffcc00;
 }
+
+// Center the hero image on the homepage
+div.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
